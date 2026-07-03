@@ -1,0 +1,41 @@
+date,description,amount,type
+2026-06-01,Salary Deposit,3500.00,income
+2026-06-02,McDonald's,-12.50,expense
+2026-06-03,Uber ride,-8.75,expense
+2026-06-04,Netflix subscription,-15.99,expense
+2026-06-05,Amazon order,-43.20,expense
+2026-06-07,Starbucks coffee,-6.40,expense
+2026-06-08,Electricity bill,-95.00,expense
+2026-06-10,Grocery store,-67.30,expense
+2026-06-11,Freelance payment,850.00,income
+2026-06-12,Spotify,-9.99,expense
+2026-06-13,Uber Eats,-22.00,expense
+2026-06-14,Gym membership,-40.00,expense
+2026-06-15,Rent payment,-1200.00,expense
+2026-06-16,KFC,-18.60,expense
+2026-06-18,Internet bill,-55.00,expense
+2026-06-19,Walmart shopping,-88.45,expense
+2026-06-20,Cashback reward,12.00,income
+2026-06-21,Pizza delivery,-24.99,expense
+2026-06-22,Taxi fare,-14.00,expense
+2026-06-23,Pharmacy,-31.50,expense
+2026-06-24,Cinema tickets,-28.00,expense
+2026-06-25,Salary Deposit,3500.00,income
+2026-06-26,Target store,-56.80,expense
+2026-06-27,Doctor visit,-75.00,expense
+2026-06-28,Steam game purchase,-29.99,expense
+2026-05-01,Salary Deposit,3500.00,income
+2026-05-03,Grocery store,-71.20,expense
+2026-05-05,Uber ride,-11.50,expense
+2026-05-07,Netflix,-15.99,expense
+2026-05-10,Electricity bill,-102.00,expense
+2026-05-12,Amazon order,-67.99,expense
+2026-05-14,Freelance payment,600.00,income
+2026-05-15,Rent payment,-1200.00,expense
+2026-05-17,Starbucks,-5.80,expense
+2026-05-19,Gym membership,-40.00,expense
+2026-05-21,Internet bill,-55.00,expense
+2026-05-23,McDonald's,-9.40,expense
+2026-05-25,Salary Deposit,3500.00,income
+2026-05-27,Pharmacy,-18.00,expense
+2026-05-29,Concert tickets,-85.00,expense
