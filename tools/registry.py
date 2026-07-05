@@ -14,8 +14,15 @@ _RAW_TOOLS = [
     (FINANCE_BY_CATEGORY_SCHEMA, get_spending_by_category),
 ]
 
-CLAUDE_TOOLS = [
-    {"name": schema["name"], "description": schema["description"], "input_schema": schema["input_schema"]}
+GROQ_TOOLS = [
+    {
+        "type": "function",
+        "function": {
+            "name": schema["name"],
+            "description": schema["description"],
+            "parameters": schema["input_schema"],
+        },
+    }
     for schema, _ in _RAW_TOOLS
 ]
 
